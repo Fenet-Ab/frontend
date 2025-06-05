@@ -60,12 +60,5 @@ The task data is stored in a hardcoded array within the React state, as no backe
 The application is fully responsive and works on both desktop and mobile devices.
 The UI is clean and intuitive, with a modern design using Tailwind CSS.
 
-Submission
 
-Push the code to a public GitHub repository:git add .
-git commit -m "Initial commit for Task Manager"
-git push origin main
-
-
-Submit the GitHub repository link in the designated input field.
 
